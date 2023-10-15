@@ -13,3 +13,8 @@ The Calculator Project is a simple yet powerful calculator application that allo
 
 ## Installation
 1. Clone the repository to your local machine.
+
+
+## Thank you for contributing to our repository.😃
+
+![Contributors](https://contrib.rocks/image?repo=Ahmedabad-Institute-of-Technology/Calculator2) 
